@@ -1,0 +1,13 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "FrontEnd para gestão de ativos",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp -r src/* public/"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {}
+}

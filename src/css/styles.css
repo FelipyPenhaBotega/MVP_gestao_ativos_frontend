@@ -1,0 +1,7 @@
+/* Adicione este estilo para alinhar o total à esquerda */
+@media (min-width: 768px) {
+    .table tfoot {
+        display: table-row;
+        vertical-align: bottom;
+    }
+}
